@@ -14,7 +14,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+#Folders  prescibed from egen project for rest module
+build
+target
+*.class
 # Eclipse Core
 .project
 
